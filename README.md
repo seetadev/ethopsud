@@ -1,8 +1,8 @@
-# TWIGGY UD LOGIN
-This repo contains the code for the Twiggy NFT Minter dApp and the feature integration of "Login With Unstoppable"
+# EthOps UD LOGIN
+This repo contains the code for the EthOps NFT Minter dApp and the feature integration of "Login With Unstoppable"
 
 ## Project Name
-UD Login for Twiggy Minter
+UD Login for Ethops Minter
 
 ## Submission Requirements
 - Project link: https://twiggy-minter.netlify.app/

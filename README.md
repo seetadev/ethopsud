@@ -4,14 +4,6 @@ This repo contains the code for the EthOps NFT Minter dApp and the feature integ
 ## Project Name
 UD Login for Ethops Minter
 
-## Submission Requirements
-- Project link: https://twiggy-minter.netlify.app/
-- Public repo: https://github.com/TCHKVSKY/twiggy-ud-login
-- Recorded video demo of Unstoppable Domains Login integration: https://www.youtube.com/watch?v=Bu6NMqRGebg
-- Person of contact:
-  - Discord ID: Alex_#7909
-  - Unstoppable Domains registered account email address: eddieikott@gmail.com
-
 ## Setup
 Steps to setup and run the app:
 1. Clone the repo and make sure you are in the project directory

@@ -65,7 +65,7 @@ The purpose of the DAPP is to enable users to register themselves as well as the
       * The owner needs to refresh the page after logging into her account with Metamask to see the registered properties.
 
 
-Blockchain Technologies utilized:
+## Blockchain Technologies utilized:
 
 1. MultiChain: https://github.com/seetadev/ethopsud/tree/main/PropTech-Modules/BNB-smart-contract-light-client
 

@@ -1,4 +1,4 @@
-# TitleTransfer
+# Registration Management Module
 A distributed application to register users and properties and handle transfer of properties among users and validate.
 
 ## Running the project in a development environment

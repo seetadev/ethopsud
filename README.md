@@ -1,3 +1,22 @@
+# PropTech: Registration Management and Transfer, Home Maintenance and Cleaning Planner for Elderly and Aged People
+
+Registration Management Module: https://github.com/seetadev/ethopsud/tree/main/PropTech-Modules/Registration-Management
+
+Blockchain Technologies utilized:
+
+1. MultiChain: https://github.com/seetadev/ethopsud/tree/main/PropTech-Modules/BNB-smart-contract-light-client
+
+2. BNB: 
+
+3. Polygon
+
+4. Fantom
+
+
+
+
+
+
 # EthOps UD LOGIN
 This repo contains the code for the EthOps NFT Minter dApp and the feature integration of "Login With Unstoppable"
 

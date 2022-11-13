@@ -76,9 +76,10 @@ The purpose of the DAPP is to enable users to register themselves as well as the
 4. Fantom
 
 
-## UD Login for Ethops Minter (EthOps NFT Minter and the feature integration of "Login With Unstoppable")
-Steps to setup and run the app:
-1. Clone the repo and make sure you are in the project directory
+
+## UD Login for Ethops Mint (EthOps NFT Mint and the integration of "Login With Unstoppable")
+Steps to setup and run the module:
+1. Go to base directory
 2. Install dependencies with `yarn install`
 3. Update `.env.example` file with your Unstoppable Domains keys
 4. Run `yarn start` to start the local server at http://localhost:3000/ 

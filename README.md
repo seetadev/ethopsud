@@ -6,7 +6,7 @@ Blockchain Technologies utilized:
 
 1. MultiChain: https://github.com/seetadev/ethopsud/tree/main/PropTech-Modules/BNB-smart-contract-light-client
 
-2. BNB: 
+2. BNB: https://github.com/seetadev/ethopsud/tree/main/PropTech-Modules/BNB-smart-contract-light-client
 
 3. Polygon
 

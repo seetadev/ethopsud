@@ -77,7 +77,9 @@ The purpose of the DAPP is to enable users to register themselves as well as the
 
 
 
-## UD Login for Ethops Mint (EthOps NFT Mint and the integration of "Login With Unstoppable")
+## UD Login for Ethops Mint 
+(EthOps NFT Mint and the integration of "Login With Unstoppable")
+
 Steps to setup and run the module:
 1. Go to base directory
 2. Install dependencies with `yarn install`

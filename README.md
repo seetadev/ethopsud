@@ -69,7 +69,7 @@ The purpose of the DAPP is to enable users to register themselves as well as the
 
 1. MultiChain: We are extending multichain web app to integrate with SocialCalc to enable tabulation, charting, graphing, computation and organization. Please visit https://github.com/seetadev/ethopsud/tree/main/PropTech-Modules/MultiChain-PropTech-webapp/multichain-proptech-webapp
 
-2. BNB: https://github.com/seetadev/ethopsud/tree/main/PropTech-Modules/BNB-smart-contract-light-client
+2. BNB:  Binance smart contracts for light client are implemented. Please visit https://github.com/seetadev/ethopsud/tree/main/PropTech-Modules/BNB-smart-contract-light-client
 
 3. Polygon: NFT is originally minted at Polygon source chain and shared with Fantom destination chain. Please find the link to send the NFT that was originally minted at Polygon source-chain to Fantom destination-chain at https://github.com/seetadev/ethopsud/tree/main/PropTech-Modules/NFT-Linker-Polygon-Fantom/nft-linker
 

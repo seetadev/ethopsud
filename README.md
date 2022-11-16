@@ -67,7 +67,7 @@ The purpose of the DAPP is to enable users to register themselves as well as the
 
 ## Blockchain Technologies utilized with Moralis Transaction Dashboard
 
-1. MultiChain: https://github.com/seetadev/ethopsud/tree/main/PropTech-Modules/MultiChain-PropTech-webapp/multichain-proptech-webapp
+1. MultiChain: We are extending multichain web app to integrate with SocialCalc to enable tabulation, charting, graphing, computation and organization. Please visit https://github.com/seetadev/ethopsud/tree/main/PropTech-Modules/MultiChain-PropTech-webapp/multichain-proptech-webapp
 
 2. BNB: https://github.com/seetadev/ethopsud/tree/main/PropTech-Modules/BNB-smart-contract-light-client
 

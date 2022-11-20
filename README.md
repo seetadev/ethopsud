@@ -1,5 +1,23 @@
 # PropTech: Registration Management and Transfer, Home Maintenance and Cleaning Planner for Elderly and Aged People
 
+Enable effective registration and property transfer management, building maintenance communication and a technical solution for security and monitoring incidents using Multichain, Polygon, BNB, Fantom, Filecoin powered by FEVM, Ethereum, IPFS, NFT.Storage and OSS AI; enable early detection and prevention of incidents.
+
+Platform Features:
+
+•Registration Management : Property Registration and Transfer Management using smart contracts compiled using EVM and FEVM.
+
+•Monitoring : Looking out and reporting incidents based on event detection in visual data using a Filecoin/IPFS powered security based solution.
+
+•Detection : Identifying the security threats in the video feed using object detection.
+
+•Geo-fencing : Discovering unlawful presence and raising alarms using the detection & discovery data.
+
+•Discovery : Logging the identities of the property owners, using exchange of unique identifiers.
+
+•Building Maintenance: Reminder and timely notifications for maintenance activities using an Alexa skill.
+
+•Analysis : Analyzing incidents.
+
 Registration Management Module: https://github.com/seetadev/ethopsud/tree/main/PropTech-Modules/Registration-Management
 
 A distributed application to register users and properties and handle transfer of properties among users and validate.
